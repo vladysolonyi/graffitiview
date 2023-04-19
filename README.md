@@ -17,6 +17,10 @@ This experiment was created during a machine learning CoCreate course at HGK FHN
 
 **Coming soon...**
 
+## To Do
+- Create own model, that works better with panorama images
+- Create an archive generator/upload to webside script
+
 ## Credits
 
 *I used a [model](https://github.com/abundis-rmn2/graffiti_detection_OD_TF) by **abundis-rmn2** for the actual graffiti detection.* *Also for the dataset creation, I used a beautiful [library](https://github.com/sk-zk/streetlevel) created by **sk-zk**, that allowed me to fetch panoramas in a given region without any access to the official API :P*
